@@ -1,24 +1,23 @@
-# MockDataBase
-Inventory Database Management System:
-This is a school project for a database design. It is an inventory management database designed to manage and keep track of customers, products, and any transactions. It uses mock data for customers and products. This project uses Microsoft Access.
+# Inventory Management and Billing System
 
-Features:
-Customer Management - Store and manage customers. Add details such as name, contact information, and purchase history.
-Product Management - Keep track of all products in inventory, including details such as purchase date, quantity on hand, product name, cost, and shipping cost.
-Transaction Management - Record all sales transactions, including sales ID, customer, products sold, and the quantity of each product.
-Reports - Generate many different reports for sales, inventory status, customer purchase history, employee ID badges, and customer quotes .
+## Overview
+Initially finalized in April 2023, this school project was developed using MS Access and serves as an inventory management and billing system. After gaining further insights into data integrity and referential integrity, the project was revisited and revamped to align with these essential database requirements. It is designed for storing and organizing customer information, managing product data, storing sales records, and keeping accurate records of all inventory.
 
-Usage:
-Download the .accdb file from the repository.
-Open the file with Microsoft Access.
-Explore the different tables, queries, forms, and reports available to add, update, or view data.
+## Features
 
-Development:
-This project was originally made in April of this year (2023) and violated many of the rules of entity integrity and referential integrity. After learning more about those rules this summer in a database modeling and processing class and went back and recreated it to six those issues.
-This was designed for a school project to showcase database management skills and capabilities. It was made with Microsoft Access, it utilizes SQL for querying and managing data. 
+- Organizes customer information
+- Manages product data
+- Stores sales records
+- Keeps accurate records of inventory
+- Enhanced for data integrity and referential integrity
 
-Contributing:
-This is a personal portfolio project, it's not meant for contribution. All feedback and suggestions are welcome.
+## How to Use
 
-License:
-This project is licensed under the MIT License - see the LICENSE file for details.
+1. Clone the repository from [GitHub](https://github.com/JoshuaStorm1017/MockDataBase).
+2. Open the MS Access file to set up the system.
+3. Use the system as per the given documentation.
+
+## Technologies
+
+- MS Access
+- SQL
